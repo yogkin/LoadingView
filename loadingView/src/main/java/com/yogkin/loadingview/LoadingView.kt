@@ -1,10 +1,9 @@
 package com.yogkin.loadingview
 
 import android.content.Context
-import androidx.appcompat.app.AlertDialog
 import android.view.LayoutInflater
-import android.view.View
 import android.widget.TextView
+import androidx.appcompat.app.AlertDialog
 
 class LoadingView(mContext: Context) {
 
